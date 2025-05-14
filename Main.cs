@@ -172,6 +172,7 @@ public class Main : Game {
 				_enemyList = EnemyGrid();
 				_lives++;
 				_enemySpeed = 40;
+				_enemyLaserCount = 0;
 			}
 
 			// ufo logic
